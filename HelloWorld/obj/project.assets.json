@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kumataka/PG/01.Study/C#/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/kumataka/PG/01.Study/C#/gitTest/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/kumataka/PG/01.Study/C#/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/kumataka/PG/01.Study/C#/gitTest/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/kumataka/.nuget/packages/",
-      "outputPath": "/Users/kumataka/PG/01.Study/C#/HelloWorld/HelloWorld/obj/",
+      "outputPath": "/Users/kumataka/PG/01.Study/C#/gitTest/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kumataka/.config/NuGet/NuGet.Config"

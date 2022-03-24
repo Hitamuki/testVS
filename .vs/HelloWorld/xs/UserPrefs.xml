@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{2E076D2A-C63B-4C91-9648-B9C8D4B67D6F}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/Program.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="HelloWorld/Program.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld/Program.cs" Line="11" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HelloWorld" expanded="True">
+          <Node name="HelloWorld" expanded="True" selected="True">
             <Node name="HelloWorld" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
@@ -15,7 +15,6 @@
               <Node name="Properties" expanded="True">
                 <Node name="PublishProfiles" expanded="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -26,7 +25,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/kumataka/PG/01.Study/C#/HelloWorld/HelloWorld/Program.cs" relfile="HelloWorld/Program.cs" line="12" column="1" />
+      <Breakpoint file="/Users/kumataka/PG/01.Study/C#/gitTest/HelloWorld/Program.cs" relfile="HelloWorld/Program.cs" line="13" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

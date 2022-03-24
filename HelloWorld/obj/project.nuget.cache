@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aAqOp83Pe8c7fjzTs5wNM8D0EIiQBQlaKGToO4l3CJBYSqyIAHeWizma+URdb56PoYRif8ek9w02SBgKp+3J/w==",
+  "dgSpecHash": "xCR6jZzRiWqbjVDDeDmORs0W3/6BDgKgTv844zKPBLI8gUR1taUeWTKo2+hL+FIipccIoRB9h3VkOA9q2lhMpQ==",
   "success": true,
-  "projectFilePath": "/Users/kumataka/PG/01.Study/C#/HelloWorld/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/Users/kumataka/PG/01.Study/C#/gitTest/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
